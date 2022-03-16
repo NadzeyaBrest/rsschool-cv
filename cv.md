@@ -19,8 +19,8 @@ I'm putting in the hours to learn Front-End Development
 
 #### 4. Skills
 
-*JavaScript Basics
-*Git, GitHub Basics
+- JavaScript Basics
+- Git, GitHub Basics
 
 ---
 
@@ -46,22 +46,22 @@ console.log(highandlow(a));
 
 - _Alfa-Bank JSC (08.2014-Present)_
   Personnel manager
-  +Dealing with entrepreneurs
-  +Issuance of credits
-  +Opening bank accounts
+  - Dealing with entrepreneurs
+  - Issuance of credits
+  - Opening bank accounts
 - _Brest Electrotechnical Plant JSC (08.2012-08.2014)_
   Marketer
-  +Analyzing data
-  +Short-term and long-term strategic planning
-  +Preparing financial forecasts
+  - Analyzing data
+  - Short-term and long-term strategic planning
+  - Preparing financial forecasts
 
 ---
 
 #### 7.Education
 
 - _Polessky State University_
-  +Qualification – Economist
-  +Diploma with distinction
+  - Qualification – Economist
+  - Diploma with distinction
 - _Courses_
   - JavaScript https://learn.javascript.ru/
   - HTML Academy
@@ -70,5 +70,5 @@ console.log(highandlow(a));
 
 #### 8.Language
 
-*English level B1
-*Polish level A2
+- English level B1
+- Polish level A2
