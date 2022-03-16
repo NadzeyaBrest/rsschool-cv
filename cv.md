@@ -1,8 +1,8 @@
-### Nadzeya Batsanava
+### 1. Nadzeya Batsanava
 
 ---
 
-#### 1. Contacts
+#### 2. Contacts
 
 - _location:_ Brest, Belarus
 - _Email:_ nadinbacanova@gmail.com
@@ -17,7 +17,14 @@ I'm putting in the hours to learn Front-End Development
 
 ---
 
-#### 4.Code examples
+#### 4. Skills
+
+*JavaScript Basics
+*Git, GitHub Basics
+
+---
+
+#### 5.Code examples
 
 ```
 let a = "2,3,-9,4,5,6";
@@ -32,6 +39,8 @@ let highandlow = (str) => {
 };
 console.log(highandlow(a));
 ```
+
+---
 
 #### 6.Experience
 
