@@ -17,6 +17,22 @@ I'm putting in the hours to learn Front-End Development
 
 ---
 
+#### 4.Code examples
+
+```
+let a = "2,3,-9,4,5,6";
+
+let highandlow = (str) => {
+  let arr = str
+    .split(",")
+
+    .sort((a, b) => b - a);
+
+  return `${arr[0]} ${arr[arr.length - 1]}`;
+};
+console.log(highandlow(a));
+```
+
 #### 6.Experience
 
 - _Alfa-Bank JSC (08.2014-Present)_
