@@ -117,7 +117,21 @@ body {
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
-
+.section-projects-photo {
+  width: 70%;
+  color: white;
+  border: solid 5px rgb(66, 66, 95);
+}
+.section-projects-button {
+  color: white;
+  background-color: rgb(66, 66, 95);
+  text-decoration: none;
+  width: 15%;
+  margin: 1%;
+  justify-content: flex-start;
+  padding: 1rem 1.5rem;
+  border-radius: 3px;
+}
 .footer-container {
   display: flex;
   align-items: center;
